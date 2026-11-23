@@ -49,7 +49,7 @@ const ThumbB: React.FC<EpisodeProps> = (p) => <AbsoluteFill style={{ background:
   <div style={{ position: "absolute", left: 952, top: 0, width: 16, height: 1080, background: PAPER }} />
   <Big a="DAY 1" b="1 PLANK" x={60} y={760} col={PAPER} /><Big a="1 MONTH LATER" b="A HOME" x={1010} y={760} />
   <div style={{ position: "absolute", left: 960, top: 380, transform: "translateX(-50%)", width: 130, height: 130, borderRadius: 65, background: CORAL, color: PAPER, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 90, fontWeight: 800, fontFamily: SANS }}>→</div></AbsoluteFill>;
-const meta = async (o: never) => { const m = await calcEpisode(o); return { ...m, durationInFrames: LEN }; };
+const meta = async (o: Parameters<typeof calcEpisode>[0]) => { const m = await calcEpisode(o); return { ...m, durationInFrames: LEN }; };
 const dp = { id: "adrift-p2", subtitles: false, planFile: "plan-p2-v2.json" } as EpisodeProps;
 registerRoot(() => <>
   {([["hook2-a-split", A], ["hook2-b-whale", B], ["hook2-c-ship", C], ["hook2-d-star", D]] as const).map(([id, c]) =>

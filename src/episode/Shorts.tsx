@@ -89,6 +89,6 @@ const ShortComp: React.FC<EpisodeProps & { short: string }> = (p) => {
   </AbsoluteFill>;
 };
 
-registerRoot(() => <>{SHORTS.map((s) => <Composition key={s.id} id={s.id} component={ShortComp as never} width={1080} height={1920} fps={FPS} durationInFrames={Math.round((s.to - s.from) * FPS)}
-  defaultProps={{ id: "adrift-p1", subtitles: false, short: s.id, planFile: "plan-p1-v2.json" } as never}
-  calculateMetadata={async (o: never) => { const m = await calcEpisode(o); return { ...m, width: 1080, height: 1920, durationInFrames: Math.round((s.to - s.from) * FPS) }; }} />)}</>);
+registerRoot(() => <>{SHORTS.map((s) => <Composition key={s.id} id={s.id} component={ShortComp as unknown as React.FC<EpisodeProps>} width={1080} height={1920} fps={FPS} durationInFrames={Math.round((s.to - s.from) * FPS)}
+  defaultProps={{ id: "adrift-p1", subtitles: false, short: s.id, planFile: "plan-p1-v2.json" } as unknown as EpisodeProps}
+  calculateMetadata={async (o: Parameters<typeof calcEpisode>[0]) => { const m = await calcEpisode(o); return { ...m, width: 1080, height: 1920, durationInFrames: Math.round((s.to - s.from) * FPS) }; }} />)}</>);
