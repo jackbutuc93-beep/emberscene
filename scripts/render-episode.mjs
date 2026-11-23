@@ -1,4 +1,4 @@
-// Render + master an episode:  node scripts/render-episode.mjs <id> [--no-subs]
+// Render + master an episode:  node scripts/render-episode.mjs <id> [--plan <file>] [--subs]
 // 1. Remotion render (video + mixed audio)  2. two-pass EBU R128 loudness normalisation to YouTube level
 //    (-14 LUFS integrated, -1 dBTP), AAC 320 kbps, 48 kHz. Output: out/<id>/<id>-final.mp4 (never overwrites: adds a timestamp).
 import { execFileSync, spawnSync } from "node:child_process";
@@ -8,7 +8,7 @@ import path from "node:path";
 const id = process.argv[2];
 const subs = process.argv.includes("--subs"); // subtitles OFF by default (user preference)
 const pi = process.argv.indexOf("--plan"), planFile = pi > 0 ? process.argv[pi + 1] : undefined; // e.g. --plan plan-p1-tide.json
-if (!id) { console.error("usage: node scripts/render-episode.mjs <id> [--no-subs]"); process.exit(1); }
+if (!id) { console.error("usage: node scripts/render-episode.mjs <id> [--plan <file>] [--subs]"); process.exit(1); }
 const dir = path.join("out", id); fs.mkdirSync(dir, { recursive: true });
 const stamp = new Date().toISOString().replace(/[:.]/g, "-").slice(0, 19);
 const raw = path.join(dir, `${id}-raw-${stamp}.mp4`), fin = path.join(dir, `${id}-final-${stamp}.mp4`);

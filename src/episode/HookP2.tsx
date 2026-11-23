@@ -50,10 +50,11 @@ const ThumbB: React.FC<EpisodeProps> = (p) => <AbsoluteFill style={{ background:
   <Big a="DAY 1" b="1 PLANK" x={60} y={760} col={PAPER} /><Big a="1 MONTH LATER" b="A HOME" x={1010} y={760} />
   <div style={{ position: "absolute", left: 960, top: 380, transform: "translateX(-50%)", width: 130, height: 130, borderRadius: 65, background: CORAL, color: PAPER, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 90, fontWeight: 800, fontFamily: SANS }}>→</div></AbsoluteFill>;
 const meta = async (o: Parameters<typeof calcEpisode>[0]) => { const m = await calcEpisode(o); return { ...m, durationInFrames: LEN }; };
+const metaThumb = async (o: Parameters<typeof calcEpisode>[0]) => ({ ...(await calcEpisode(o)), durationInFrames: 1 });
 const dp = { id: "adrift-p2", subtitles: false, planFile: "plan-p2-v2.json" } as EpisodeProps;
 registerRoot(() => <>
   {([["hook2-a-split", A], ["hook2-b-whale", B], ["hook2-c-ship", C], ["hook2-d-star", D]] as const).map(([id, c]) =>
     <Composition key={id} id={id} component={c} calculateMetadata={meta} defaultProps={dp} durationInFrames={LEN} fps={30} width={1920} height={1080} />)}
-  <Composition id="thumb2-a-ship" component={ThumbA} calculateMetadata={meta} defaultProps={dp} durationInFrames={1} fps={30} width={1920} height={1080} />
-  <Composition id="thumb2-b-split" component={ThumbB} calculateMetadata={meta} defaultProps={dp} durationInFrames={1} fps={30} width={1920} height={1080} />
+  <Composition id="thumb2-a-ship" component={ThumbA} calculateMetadata={metaThumb} defaultProps={dp} durationInFrames={1} fps={30} width={1920} height={1080} />
+  <Composition id="thumb2-b-split" component={ThumbB} calculateMetadata={metaThumb} defaultProps={dp} durationInFrames={1} fps={30} width={1920} height={1080} />
 </>);

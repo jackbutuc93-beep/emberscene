@@ -20,7 +20,7 @@ A clean copy of the "new video" project, made on 2026-11-23. The old folder is k
   - `sheets.py`: contact sheets.
   - `plan_lint.py`: framing and shot length.
 - `docs/`: bibles, scripts, technical rules, the QC report.
-- `final/`: finished videos (Part 1 v2, Part 2 with hook, Shorts v2), thumbnails, YouTube texts.
+- `final/` (local only, not on GitHub, see `.gitignore`): finished videos (Part 1 v2, Part 2 with hook, Shorts v2), thumbnails, YouTube texts.
 - `brand/`: logo, banner, watermark.
 
 ## Commands
