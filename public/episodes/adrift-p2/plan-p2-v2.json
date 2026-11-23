@@ -1,0 +1,5256 @@
+{
+ "set": "ocean",
+ "style": "v2",
+ "camera": "calm",
+ "ambience": "waves-loop.mp3",
+ "grade": "tide",
+ "mood": [
+  [
+   0,
+   "noon"
+  ],
+  [
+   313.9,
+   "sunset",
+   5
+  ],
+  [
+   320.0,
+   "night",
+   0
+  ],
+  [
+   368.8,
+   "day",
+   0
+  ],
+  [
+   486.5,
+   "sunset",
+   4
+  ]
+ ],
+ "cast": {
+  "teo": 0,
+  "mara": 0
+ },
+ "raftTwo": 0,
+ "knots": [
+  0,
+  0.01,
+  0.02,
+  121.4,
+  122.0,
+  122.7
+ ],
+ "doorX": [
+  [
+   0,
+   1300
+  ]
+ ],
+ "place": {
+  "teo": [
+   [
+    0,
+    -125
+   ]
+  ],
+  "mara": [
+   [
+    0,
+    "raft",
+    125
+   ]
+  ]
+ },
+ "shots": [
+  {
+   "start": 0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 690,
+     "z": 1.3
+    },
+    {
+     "cx": 760,
+     "cy": 690,
+     "z": 1.339
+    }
+   ],
+   "text": "(recap — Part 1 clips)",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       0,
+       "neutral"
+      ]
+     ],
+     "body": [
+      [
+       0,
+       "sit"
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       0,
+       "neutral"
+      ]
+     ],
+     "body": [
+      [
+       0,
+       "sit"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 17.36,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 740,
+     "cy": 700,
+     "z": 1.4
+    },
+    {
+     "cx": 740,
+     "cy": 700,
+     "z": 1.442
+    }
+   ],
+   "text": "Now it's back.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       17.4,
+       "afraid"
+      ]
+     ],
+     "look": [
+      [
+       17.5,
+       0.3,
+       0.85,
+       0.1
+      ]
+     ],
+     "body": [
+      [
+       17.36,
+       "sit"
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       17.4,
+       "afraid"
+      ]
+     ],
+     "look": [
+      [
+       17.5,
+       -0.3,
+       0.85,
+       0.1
+      ]
+     ],
+     "body": [
+      [
+       17.36,
+       "sit"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 20.4,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 1080,
+     "z": 1.0
+    },
+    {
+     "cx": 720,
+     "cy": 1080,
+     "z": 1.03
+    }
+   ],
+   "text": "The shadow rises... pale green.",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 25.48,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 1228.0,
+     "cy": 1200,
+     "z": 2.0
+    },
+    {
+     "cx": 1228.0,
+     "cy": 1200,
+     "z": 2.06
+    }
+   ],
+   "text": "A wide, flat head. A mouth...",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 30.5,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 1140,
+     "z": 1.2
+    },
+    {
+     "cx": 760,
+     "cy": 1140,
+     "z": 1.236
+    }
+   ],
+   "text": "...a back covered in white spots",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 35.6,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 770,
+     "z": 2.0
+    },
+    {
+     "cx": 720,
+     "cy": 770,
+     "z": 2.06
+    }
+   ],
+   "text": "Teo grabs the knife. Mara puts her hand on his arm.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       35.6,
+       "afraid"
+      ]
+     ],
+     "look": [
+      [
+       35.7,
+       0.3,
+       0.85,
+       0.1
+      ]
+     ],
+     "gestures": [
+      [
+       35.8,
+       "holdup",
+       3.6
+      ]
+     ],
+     "body": [
+      [
+       35.6,
+       "stand"
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       35.6,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       35.7,
+       -0.9,
+       0.1,
+       0.0
+      ],
+      [
+       38.4,
+       0.2,
+       0.85,
+       0.1
+      ]
+     ],
+     "gestures": [
+      [
+       36.4,
+       "reach",
+       3.4
+      ]
+     ],
+     "body": [
+      [
+       35.6,
+       "stand"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 41.92,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 1228.0,
+     "cy": 1200,
+     "z": 2.0
+    },
+    {
+     "cx": 1228.0,
+     "cy": 1200,
+     "z": 2.06
+    }
+   ],
+   "text": "No rows of teeth. Just a wide open filter.",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 47.52,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 1060,
+     "z": 0.8
+    },
+    {
+     "cx": 760,
+     "cy": 1060,
+     "z": 0.824
+    }
+   ],
+   "text": "It's a whale shark...",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 53.6,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 980,
+     "cy": 1290,
+     "z": 1.5
+    },
+    {
+     "cx": 980,
+     "cy": 1290,
+     "z": 1.545
+    }
+   ],
+   "text": "...feeds on plankton and tiny fish",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 59.64,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 740,
+     "z": 1.6
+    },
+    {
+     "cx": 720,
+     "cy": 740,
+     "z": 1.648
+    }
+   ],
+   "text": "Divers say whale sharks are often curious.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       59.7,
+       "curious"
+      ]
+     ],
+     "look": [
+      [
+       59.8,
+       0.3,
+       0.85,
+       0.1
+      ]
+     ],
+     "body": [
+      [
+       59.64,
+       "stand"
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       59.7,
+       "curious"
+      ]
+     ],
+     "look": [
+      [
+       59.8,
+       -0.3,
+       0.85,
+       0.1
+      ]
+     ],
+     "body": [
+      [
+       59.64,
+       "stand"
+      ]
+     ],
+     "gestures": [
+      [
+       61.0,
+       "point",
+       3
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 65.36,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 1060,
+     "z": 0.9
+    },
+    {
+     "cx": 720,
+     "cy": 1060,
+     "z": 0.927
+    }
+   ],
+   "text": "A slow circle around the raft...",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 70.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 1100,
+     "z": 0.8
+    },
+    {
+     "cx": 720,
+     "cy": 1100,
+     "z": 0.824
+    }
+   ],
+   "text": "...and sinks back into the blue.",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 74.6,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 620,
+     "cy": 760,
+     "z": 2.8
+    },
+    {
+     "cx": 620,
+     "cy": 760,
+     "z": 2.884
+    }
+   ],
+   "text": "Teo lets out a breath.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       74.6,
+       "afraid"
+      ],
+      [
+       76.0,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       74.6,
+       0.3,
+       0.85,
+       0.1
+      ],
+      [
+       76.2,
+       0.0,
+       0.0,
+       0.0
+      ]
+     ],
+     "lids": [
+      [
+       75.6,
+       0.7
+      ],
+      [
+       76.3,
+       0
+      ]
+     ],
+     "body": [
+      [
+       74.6,
+       "sit"
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       74.6,
+       "surprised"
+      ],
+      [
+       76.4,
+       "happy"
+      ]
+     ],
+     "body": [
+      [
+       74.6,
+       "sit"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 78.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 770,
+     "z": 2.0
+    },
+    {
+     "cx": 720,
+     "cy": 770,
+     "z": 2.06
+    }
+   ],
+   "text": "I think it was just saying hello.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       78.0,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       78.1,
+       0.85,
+       0.0,
+       0.0
+      ]
+     ],
+     "body": [
+      [
+       78.0,
+       "sit"
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       78.0,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       78.4,
+       -0.85,
+       0.0,
+       0.0
+      ]
+     ],
+     "body": [
+      [
+       78.0,
+       "sit"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 81.52,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 690,
+     "z": 1.3
+    },
+    {
+     "cx": 760,
+     "cy": 690,
+     "z": 1.339
+    }
+   ],
+   "text": "The storm taught them two things.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       81.5,
+       "neutral"
+      ]
+     ],
+     "body": [
+      [
+       81.52,
+       "sit"
+      ]
+     ],
+     "look": [
+      [
+       82,
+       0.2,
+       0.3,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       81.5,
+       "determined"
+      ]
+     ],
+     "body": [
+      [
+       81.52,
+       "sit"
+      ]
+     ],
+     "look": [
+      [
+       82,
+       -0.4,
+       0.2,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 86.96,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 860,
+     "cy": 740,
+     "z": 2.4
+    },
+    {
+     "cx": 860,
+     "cy": 740,
+     "z": 2.472
+    }
+   ],
+   "text": "Mara ties them in triangles.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       87,
+       "curious"
+      ]
+     ],
+     "body": [
+      [
+       86.96,
+       "sit"
+      ]
+     ],
+     "look": [
+      [
+       87.2,
+       0.6,
+       0.5,
+       0.05
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       87,
+       "determined"
+      ]
+     ],
+     "body": [
+      [
+       86.96,
+       "sit"
+      ]
+     ],
+     "look": [
+      [
+       87.2,
+       0.3,
+       0.8,
+       0.1
+      ]
+     ],
+     "gestures": [
+      [
+       87.4,
+       "fishline",
+       5
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 92.8,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 740,
+     "cy": 720,
+     "z": 1.6
+    },
+    {
+     "cx": 740,
+     "cy": 720,
+     "z": 1.648
+    }
+   ],
+   "text": "Every piece connected to two others.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       92.8,
+       "curious"
+      ],
+      [
+       95,
+       "happy"
+      ]
+     ],
+     "body": [
+      [
+       92.8,
+       "sit"
+      ]
+     ],
+     "look": [
+      [
+       92.9,
+       0.4,
+       0.6,
+       0.05
+      ]
+     ],
+     "gestures": [
+      [
+       95.2,
+       "point",
+       2.5
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       92.8,
+       "determined"
+      ]
+     ],
+     "body": [
+      [
+       92.8,
+       "sit"
+      ]
+     ],
+     "look": [
+      [
+       92.9,
+       -0.3,
+       0.7,
+       0.08
+      ]
+     ],
+     "gestures": [
+      [
+       93,
+       "fishline",
+       4
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 98.24,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 680,
+     "z": 1.15
+    },
+    {
+     "cx": 760,
+     "cy": 680,
+     "z": 1.184
+    }
+   ],
+   "text": "Side-on to the waves...",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       98.3,
+       "afraid"
+      ]
+     ],
+     "body": [
+      [
+       98.24,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       98.4,
+       0.9,
+       0.1,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       99,
+       "balance",
+       4
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       98.3,
+       "sad"
+      ]
+     ],
+     "body": [
+      [
+       98.24,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       98.4,
+       0.9,
+       0.1,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 103.6,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 730,
+     "cy": 690,
+     "z": 2.3
+    },
+    {
+     "cx": 730,
+     "cy": 690,
+     "z": 2.37
+    }
+   ],
+   "text": "And that's how rafts flip. / A simple tool for exactly this.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       103.6,
+       "afraid"
+      ],
+      [
+       105.8,
+       "curious"
+      ]
+     ],
+     "body": [
+      [
+       103.6,
+       "stand"
+      ],
+      [
+       105.76,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       103.7,
+       0.8,
+       0.0,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       104,
+       "chest",
+       2
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       103.6,
+       "sad"
+      ],
+      [
+       105.8,
+       "determined"
+      ]
+     ],
+     "body": [
+      [
+       103.6,
+       "stand"
+      ],
+      [
+       105.76,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       106,
+       -0.6,
+       0.1,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       106.3,
+       "present",
+       3
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 109.44,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.6
+    },
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.648
+    }
+   ],
+   "text": "A sea anchor.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       109.5,
+       "curious"
+      ]
+     ],
+     "body": [
+      [
+       109.44,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       109.6,
+       -0.6,
+       0.1,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       110,
+       "think",
+       3.5
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       109.5,
+       "determined"
+      ]
+     ],
+     "body": [
+      [
+       109.44,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       109.6,
+       -0.8,
+       0.1,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       110.5,
+       "open",
+       3
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 116.5,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 560,
+     "cy": 620,
+     "z": 1.7
+    },
+    {
+     "cx": 560,
+     "cy": 620,
+     "z": 1.751
+    }
+   ],
+   "text": "...far less likely to capsize.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       116.5,
+       "curious"
+      ],
+      [
+       118.5,
+       "determined"
+      ]
+     ],
+     "body": [
+      [
+       116.5,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       116.6,
+       0.5,
+       0.4,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       117,
+       "scratch",
+       2
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       116.5,
+       "neutral"
+      ]
+     ],
+     "body": [
+      [
+       116.5,
+       "stand"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 120.72,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 690,
+     "z": 1.15
+    },
+    {
+     "cx": 760,
+     "cy": 690,
+     "z": 1.184
+    }
+   ],
+   "text": "They don't have one. So they build one.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       120.8,
+       "determined"
+      ]
+     ],
+     "body": [
+      [
+       120.72,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       121,
+       0.4,
+       0.3,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       121.2,
+       "paddle",
+       2.6
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       120.8,
+       "determined"
+      ]
+     ],
+     "body": [
+      [
+       120.72,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       121,
+       0.3,
+       0.5,
+       0.05
+      ]
+     ],
+     "gestures": [
+      [
+       121.4,
+       "fishline",
+       2.4
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 123.88,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 1000,
+     "cy": 740,
+     "z": 1.2
+    },
+    {
+     "cx": 1000,
+     "cy": 740,
+     "z": 1.236
+    }
+   ],
+   "text": "They throw it overboard.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       123.9,
+       "determined"
+      ],
+      [
+       126.5,
+       "surprised"
+      ]
+     ],
+     "body": [
+      [
+       123.88,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       124,
+       0.9,
+       0.4,
+       0.05
+      ]
+     ],
+     "gestures": [
+      [
+       124.2,
+       "offer",
+       1.6
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       123.9,
+       "curious"
+      ]
+     ],
+     "body": [
+      [
+       123.88,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       124,
+       0.9,
+       0.4,
+       0.05
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 128.3,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 1300,
+     "cy": 880,
+     "z": 1.2
+    },
+    {
+     "cx": 1300,
+     "cy": 880,
+     "z": 1.236
+    }
+   ],
+   "text": "...steady as a weather vane.",
+   "subject": "other",
+   "chars": {}
+  },
+  {
+   "start": 132.48,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 600,
+     "cy": 690,
+     "z": 2.311
+    },
+    {
+     "cx": 600,
+     "cy": 690,
+     "z": 2.38
+    }
+   ],
+   "text": "Teo stares. That's it?",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       132.5,
+       "surprised"
+      ]
+     ],
+     "body": [
+      [
+       132.48,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       132.6,
+       0.8,
+       0.2,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       134.2,
+       "open",
+       2.0
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       132.5,
+       "neutral"
+      ]
+     ],
+     "body": [
+      [
+       132.48,
+       "stand"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 136.4,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 860,
+     "cy": 690,
+     "z": 2.311
+    },
+    {
+     "cx": 860,
+     "cy": 690,
+     "z": 2.38
+    }
+   ],
+   "text": "That's all it takes, Mara says.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       136.4,
+       "surprised"
+      ]
+     ],
+     "body": [
+      [
+       136.4,
+       "stand"
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       136.4,
+       "happy"
+      ]
+     ],
+     "body": [
+      [
+       136.4,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       136.5,
+       -0.85,
+       0.0,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       136.8,
+       "crossed",
+       4
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 141.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 690,
+     "z": 2.3
+    },
+    {
+     "cx": 720,
+     "cy": 690,
+     "z": 2.369
+    }
+   ],
+   "text": "'I told you so' / Teo lets her have it.",
+   "chars": {
+    "teo": {
+     "expr": [
+      [
+       141,
+       "neutral"
+      ],
+      [
+       144.6,
+       "happy"
+      ]
+     ],
+     "body": [
+      [
+       141.0,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       141.1,
+       0.85,
+       0,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       144.7,
+       "shrug",
+       1.6
+      ]
+     ]
+    },
+    "mara": {
+     "expr": [
+      [
+       141,
+       "happy"
+      ]
+     ],
+     "body": [
+      [
+       141.0,
+       "stand"
+      ]
+     ],
+     "look": [
+      [
+       141.2,
+       -0.85,
+       0,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 146.6,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 690,
+     "z": 1.3
+    },
+    {
+     "cx": 760,
+     "cy": 690,
+     "z": 1.339
+    }
+   ],
+   "text": "They've survived the storm. Food under the raft.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       146.6,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       146.7,
+       "neutral"
+      ]
+     ],
+     "look": [
+      [
+       146.8,
+       0.6,
+       0.2,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       146.6,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       146.7,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       146.8,
+       -0.4,
+       0.3,
+       0
+      ]
+     ]
+    }
+   },
+   "transition": "dip"
+  },
+  {
+   "start": 152.4,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 1.2
+    },
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 1.236
+    }
+   ],
+   "text": "Rain is unpredictable.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       152.4,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       152.5,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       152.6,
+       0.2,
+       -0.6,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       154.4,
+       "shade",
+       2.2
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       152.4,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       152.5,
+       "neutral"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 156.7,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 905,
+     "cy": 725,
+     "z": 4.0
+    },
+    {
+     "cx": 905,
+     "cy": 725,
+     "z": 4.12
+    }
+   ],
+   "text": "Mara remembers a science class.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       156.7,
+       "sit"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       156.7,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       156.8,
+       "curious"
+      ],
+      [
+       160.4,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       156.9,
+       -0.3,
+       -0.3,
+       0.05
+      ]
+     ],
+     "gestures": [
+      [
+       157.2,
+       "think",
+       2.6
+      ]
+     ]
+    }
+   },
+   "subject": "other"
+  },
+  {
+   "start": 164.2,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 760,
+     "z": 2.4
+    },
+    {
+     "cx": 720,
+     "cy": 760,
+     "z": 2.472
+    }
+   ],
+   "text": "Trap the vapor under a clear surface.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       164.2,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       164.3,
+       "curious"
+      ]
+     ],
+     "look": [
+      [
+       164.4,
+       0.8,
+       0.1,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       164.2,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       164.3,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       164.4,
+       -0.8,
+       0.1,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       164.6,
+       "present",
+       3.5
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 172.3,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.6
+    },
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.648
+    }
+   ],
+   "text": "It's called a solar still.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       172.3,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       172.4,
+       "curious"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       172.3,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       172.4,
+       "neutral"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 177.5,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 820,
+     "cy": 650,
+     "z": 1.8
+    },
+    {
+     "cx": 820,
+     "cy": 650,
+     "z": 1.854
+    }
+   ],
+   "text": "Bottle, plastic, a dark container.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       177.5,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       177.6,
+       "determined"
+      ]
+     ],
+     "gestures": [
+      [
+       178,
+       "reach",
+       2.5
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       177.5,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       177.6,
+       "determined"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 183.1,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 690,
+     "z": 1.3
+    },
+    {
+     "cx": 760,
+     "cy": 690,
+     "z": 1.339
+    }
+   ],
+   "text": "Then they wait. An hour later...",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       183.1,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       183.2,
+       "neutral"
+      ],
+      [
+       186.4,
+       "curious"
+      ]
+     ],
+     "look": [
+      [
+       183.3,
+       0.5,
+       0.4,
+       0
+      ],
+      [
+       186.4,
+       0.6,
+       0.7,
+       0.1
+      ]
+     ],
+     "gestures": [
+      [
+       186.4,
+       "reach",
+       2.0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       183.1,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       183.2,
+       "neutral"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 188.6,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 560,
+     "cy": 725,
+     "z": 4.0
+    },
+    {
+     "cx": 560,
+     "cy": 725,
+     "z": 4.12
+    }
+   ],
+   "text": "A single drop.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       188.6,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       188.7,
+       "surprised"
+      ],
+      [
+       190.6,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       188.7,
+       0.6,
+       0.7,
+       0.1
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       188.6,
+       "sit"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 194.1,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 640,
+     "z": 0.9
+    },
+    {
+     "cx": 760,
+     "cy": 640,
+     "z": 0.927
+    }
+   ],
+   "text": "Steven Callahan, 1982.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       194.1,
+       "sit"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       194.1,
+       "sit"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 199.9,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 700,
+     "z": 2.0
+    },
+    {
+     "cx": 720,
+     "cy": 700,
+     "z": 2.06
+    }
+   ],
+   "text": "Hard to get working. A small amount.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       199.9,
+       "sit"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       199.9,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       200,
+       "sad"
+      ],
+      [
+       203.5,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       200.1,
+       -0.5,
+       0.3,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 205.6,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 760,
+     "z": 2.4
+    },
+    {
+     "cx": 720,
+     "cy": 760,
+     "z": 2.472
+    }
+   ],
+   "text": "A clock that's ticking... or stopped.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       205.6,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       205.7,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       205.8,
+       0.8,
+       0,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       205.6,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       205.7,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       205.8,
+       -0.8,
+       0,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 212.6,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 740,
+     "cy": 700,
+     "z": 1.6
+    },
+    {
+     "cx": 740,
+     "cy": 700,
+     "z": 1.648
+    }
+   ],
+   "text": "They're making their own water.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       212.6,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       212.7,
+       "neutral"
+      ],
+      [
+       216.2,
+       "happy"
+      ]
+     ],
+     "gestures": [
+      [
+       216.2,
+       "raise",
+       1.6
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       212.6,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       212.7,
+       "happy"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 217.8,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 0.9
+    },
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 0.927
+    }
+   ],
+   "text": "Days turn into weeks. The raft becomes something else.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       217.8,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       217.9,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       218,
+       0.3,
+       -0.3,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       217.8,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       217.9,
+       "neutral"
+      ]
+     ],
+     "look": [
+      [
+       218,
+       -0.2,
+       -0.3,
+       0
+      ]
+     ]
+    }
+   },
+   "transition": "dip"
+  },
+  {
+   "start": 223.1,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 650,
+     "cy": 600,
+     "z": 1.6
+    },
+    {
+     "cx": 650,
+     "cy": 600,
+     "z": 1.648
+    }
+   ],
+   "text": "Teo builds a roof from the tarp.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       223.1,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       223.2,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       223.3,
+       0.2,
+       -0.7,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       223.5,
+       "holdup",
+       3.5
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       223.1,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       223.2,
+       "neutral"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 228.3,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 870,
+     "cy": 600,
+     "z": 1.6
+    },
+    {
+     "cx": 870,
+     "cy": 600,
+     "z": 1.648
+    }
+   ],
+   "text": "Mara strings a line, fish to dry.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       228.3,
+       "stand"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       228.3,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       228.4,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       228.5,
+       0.3,
+       -0.5,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       228.8,
+       "reach",
+       2.5
+      ],
+      [
+       231.6,
+       "pullRope",
+       2.5
+      ]
+     ]
+    }
+   },
+   "subject": "other"
+  },
+  {
+   "start": 235.3,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 700,
+     "cy": 640,
+     "z": 1.9
+    },
+    {
+     "cx": 700,
+     "cy": 640,
+     "z": 1.96
+    }
+   ],
+   "text": "Teo plants a coconut.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       235.3,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       235.4,
+       "curious"
+      ],
+      [
+       238,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       235.5,
+       0.4,
+       0.7,
+       0.1
+      ]
+     ],
+     "gestures": [
+      [
+       236,
+       "reach",
+       2.0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       235.3,
+       "stand"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 241.8,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.8
+    },
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.854
+    }
+   ],
+   "text": "He waters it anyway. 'Morale.'",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       241.8,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       241.9,
+       "neutral"
+      ],
+      [
+       245.3,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       242,
+       0.4,
+       0.6,
+       0.1
+      ],
+      [
+       245.2,
+       0.7,
+       0,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       242.6,
+       "offer",
+       2.2
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       241.8,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       241.9,
+       "neutral"
+      ],
+      [
+       245.5,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       242,
+       -0.7,
+       0.2,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       245.5,
+       "crossed",
+       1.6
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 247.1,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 970,
+     "z": 1.0
+    },
+    {
+     "cx": 720,
+     "cy": 970,
+     "z": 1.03
+    }
+   ],
+   "text": "Below the raft, something is happening too.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       247.1,
+       "stand"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       247.1,
+       "stand"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 254.5,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 1290,
+     "z": 1.4
+    },
+    {
+     "cx": 720,
+     "cy": 1290,
+     "z": 1.442
+    }
+   ],
+   "text": "Small fish... and bigger fish.",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 261.9,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 900,
+     "z": 0.8
+    },
+    {
+     "cx": 760,
+     "cy": 900,
+     "z": 0.824
+    }
+   ],
+   "text": "Callahan's raft turned into a tiny reef.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       261.9,
+       "stand"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       261.9,
+       "stand"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 269.2,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 820,
+     "z": 0.9
+    },
+    {
+     "cx": 760,
+     "cy": 820,
+     "z": 0.927
+    }
+   ],
+   "text": "Living on top of an ecosystem.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       269.2,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       269.3,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       269.4,
+       0.2,
+       0.8,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       269.2,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       269.3,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       269.4,
+       -0.2,
+       0.8,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 274.9,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 0.8
+    },
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 0.824
+    }
+   ],
+   "text": "The horizon.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       274.9,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       275,
+       "neutral"
+      ]
+     ],
+     "look": [
+      [
+       275.1,
+       0,
+       -0.1,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       274.9,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       275,
+       "neutral"
+      ]
+     ],
+     "look": [
+      [
+       275.1,
+       0,
+       -0.1,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 280.6,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 540,
+     "cy": 569,
+     "z": 4.1
+    },
+    {
+     "cx": 540,
+     "cy": 569,
+     "z": 4.223
+    }
+   ],
+   "text": "Every morning, the same flat line.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       280.6,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       280.7,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       280.8,
+       0.1,
+       -0.1,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       280.6,
+       "stand"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 288.4,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.9
+    },
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.957
+    }
+   ],
+   "text": "Day 26. Teo wants a sail, steer west.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       288.4,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       288.5,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       288.6,
+       0.7,
+       0,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       292.6,
+       "point",
+       2.4
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       288.4,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       288.5,
+       "neutral"
+      ]
+     ],
+     "look": [
+      [
+       288.6,
+       -0.7,
+       0,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 297.4,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 880,
+     "cy": 569,
+     "z": 4.1
+    },
+    {
+     "cx": 880,
+     "cy": 569,
+     "z": 4.223
+    }
+   ],
+   "text": "Mara: too risky.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       297.4,
+       "stand"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       297.4,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       297.5,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       297.6,
+       -0.6,
+       0,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       298.2,
+       "refuse",
+       2.4
+      ]
+     ]
+    }
+   },
+   "subject": "other"
+  },
+  {
+   "start": 304.2,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 540,
+     "cy": 569,
+     "z": 4.1
+    },
+    {
+     "cx": 540,
+     "cy": 569,
+     "z": 4.223
+    }
+   ],
+   "text": "'So we just sit here? Forever?'",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       304.2,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       304.3,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       304.4,
+       0.7,
+       0,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       304.6,
+       "bothOpen",
+       2.6
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       304.2,
+       "stand"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 308.8,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 620,
+     "z": 1.6
+    },
+    {
+     "cx": 720,
+     "cy": 620,
+     "z": 1.648
+    }
+   ],
+   "text": "Mara turns away.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       308.8,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       308.9,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       309,
+       0.7,
+       0,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       308.8,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       308.9,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       311.2,
+       0.9,
+       0.1,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 313.9,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 0.8
+    },
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 0.824
+    }
+   ],
+   "text": "For the rest of the day... not a single word.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       313.9,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       314,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       314.1,
+       -0.9,
+       0.1,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       313.9,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       314,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       314.1,
+       0.9,
+       0.1,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 320.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 1.3
+    },
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 1.339
+    }
+   ],
+   "text": "That night, Teo can't sleep.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       320.0,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       320.1,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       320.2,
+       0.8,
+       0,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       320.0,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       320.1,
+       "neutral"
+      ]
+     ],
+     "look": [
+      [
+       320.2,
+       0.2,
+       -0.8,
+       0
+      ]
+     ]
+    }
+   },
+   "transition": "dip"
+  },
+  {
+   "start": 325.7,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 800,
+     "cy": 380,
+     "z": 1.2
+    },
+    {
+     "cx": 800,
+     "cy": 380,
+     "z": 1.236
+    }
+   ],
+   "text": "She points to a single star.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       325.7,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       325.8,
+       "curious"
+      ]
+     ],
+     "look": [
+      [
+       325.9,
+       0.3,
+       -0.9,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       325.7,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       325.8,
+       "curious"
+      ]
+     ],
+     "look": [
+      [
+       325.9,
+       0.2,
+       -0.9,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       326.2,
+       "holdup",
+       3.5
+      ]
+     ]
+    }
+   },
+   "subject": "other"
+  },
+  {
+   "start": 334.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 905,
+     "cy": 725,
+     "z": 4.0
+    },
+    {
+     "cx": 905,
+     "cy": 725,
+     "z": 4.12
+    }
+   ],
+   "text": "'Polaris. The North Star.'",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       334.0,
+       "sit"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       334.0,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       334.1,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       334.2,
+       -0.4,
+       -0.3,
+       0
+      ]
+     ]
+    }
+   },
+   "subject": "other"
+  },
+  {
+   "start": 340.2,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.6
+    },
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.648
+    }
+   ],
+   "text": "Star height = your latitude.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       340.2,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       340.3,
+       "curious"
+      ]
+     ],
+     "look": [
+      [
+       340.4,
+       0.7,
+       0,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       340.2,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       340.3,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       340.4,
+       -0.5,
+       -0.4,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 346.4,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 840,
+     "cy": 600,
+     "z": 1.9
+    },
+    {
+     "cx": 840,
+     "cy": 600,
+     "z": 1.957
+    }
+   ],
+   "text": "Mara stacks her fist up to the star.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       346.4,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       346.5,
+       "curious"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       346.4,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       346.5,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       346.6,
+       0.2,
+       -0.8,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       347.2,
+       "holdup",
+       2.4
+      ],
+      [
+       350.0,
+       "holdup",
+       2.4
+      ]
+     ]
+    }
+   },
+   "subject": "other"
+  },
+  {
+   "start": 355.5,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 0.9
+    },
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 0.927
+    }
+   ],
+   "text": "For the first time in 26 days...",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       355.5,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       355.6,
+       "neutral"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       355.5,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       355.6,
+       "happy"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 360.7,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 725,
+     "z": 2.4
+    },
+    {
+     "cx": 760,
+     "cy": 725,
+     "z": 2.472
+    }
+   ],
+   "text": "'I'm sorry.' 'Me too.'",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       360.7,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       360.8,
+       "sad"
+      ],
+      [
+       366.2,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       360.9,
+       0.7,
+       0.1,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       360.7,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       360.8,
+       "neutral"
+      ],
+      [
+       365.6,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       363,
+       -0.7,
+       0.1,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 368.8,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 1.2
+    },
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 1.236
+    }
+   ],
+   "text": "Five days later, Teo sees it first.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       368.8,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       368.9,
+       "neutral"
+      ],
+      [
+       371.0,
+       "surprised"
+      ]
+     ],
+     "look": [
+      [
+       369,
+       0.9,
+       -0.1,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       371.3,
+       "point",
+       2.4
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       368.8,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       368.9,
+       "neutral"
+      ]
+     ],
+     "look": [
+      [
+       369,
+       -0.3,
+       0.2,
+       0
+      ],
+      [
+       371.6,
+       0.9,
+       -0.1,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 373.8,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 1450,
+     "cy": 560,
+     "z": 2.2
+    },
+    {
+     "cx": 1450,
+     "cy": 560,
+     "z": 2.266
+    }
+   ],
+   "text": "A dot. A shape. A ship.",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 378.5,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 900,
+     "cy": 600,
+     "z": 1.0
+    },
+    {
+     "cx": 900,
+     "cy": 600,
+     "z": 1.03
+    }
+   ],
+   "text": "A huge cargo ship, 2–3 miles away.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       378.5,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       378.6,
+       "surprised"
+      ]
+     ],
+     "look": [
+      [
+       378.7,
+       0.9,
+       -0.1,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       378.5,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       378.6,
+       "surprised"
+      ]
+     ],
+     "look": [
+      [
+       378.7,
+       0.9,
+       -0.1,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 383.7,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.9
+    },
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.957
+    }
+   ],
+   "text": "They scream. They wave.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       383.7,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       383.8,
+       "afraid"
+      ]
+     ],
+     "look": [
+      [
+       383.9,
+       0.9,
+       -0.2,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       384.0,
+       "wave",
+       3.6
+      ],
+      [
+       388.2,
+       "wave",
+       3.4
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       383.7,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       383.8,
+       "afraid"
+      ]
+     ],
+     "look": [
+      [
+       383.9,
+       0.9,
+       -0.2,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       384.2,
+       "wave",
+       3.2
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 391.6,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 880,
+     "cy": 569,
+     "z": 4.1
+    },
+    {
+     "cx": 880,
+     "cy": 569,
+     "z": 4.223
+    }
+   ],
+   "text": "Mara flashes sunlight off plastic.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       391.6,
+       "stand"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       391.6,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       391.7,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       391.8,
+       0.9,
+       -0.2,
+       0
+      ]
+     ],
+     "gestures": [
+      [
+       392.0,
+       "holdup",
+       3.4
+      ]
+     ]
+    }
+   },
+   "subject": "other"
+  },
+  {
+   "start": 395.7,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 1150,
+     "cy": 600,
+     "z": 1.25
+    },
+    {
+     "cx": 1150,
+     "cy": 600,
+     "z": 1.29
+    }
+   ],
+   "text": "The ship keeps moving.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       395.7,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       395.8,
+       "afraid"
+      ]
+     ],
+     "look": [
+      [
+       395.9,
+       0.9,
+       -0.1,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       395.7,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       395.8,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       395.9,
+       0.9,
+       -0.1,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 400.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 0.8
+    },
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 0.824
+    }
+   ],
+   "text": "A shape again. A dot. Nothing.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       400.0,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       400.1,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       400.2,
+       -0.9,
+       -0.1,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       400.0,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       400.1,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       400.2,
+       -0.9,
+       -0.1,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 405.2,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 1.3
+    },
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 1.339
+    }
+   ],
+   "text": "One of the cruelest things...",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       405.2,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       405.3,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       405.4,
+       -0.6,
+       0.2,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       405.2,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       405.3,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       405.4,
+       -0.4,
+       0.4,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 411.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 0.66
+    },
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 0.68
+    }
+   ],
+   "text": "A speck among waves and glare.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       411.0,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       411.1,
+       "sad"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       411.0,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       411.1,
+       "sad"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 417.9,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.9
+    },
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.957
+    }
+   ],
+   "text": "Callahan: ships passed. Not one stopped.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       417.9,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       418,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       418.1,
+       -0.8,
+       0.1,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       417.9,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       418,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       418.1,
+       -0.6,
+       0.3,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 426.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 560,
+     "cy": 725,
+     "z": 4.0
+    },
+    {
+     "cx": 560,
+     "cy": 725,
+     "z": 4.12
+    }
+   ],
+   "text": "Teo sits on the edge. Stares.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       426.0,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       426.1,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       426.2,
+       -0.2,
+       -0.05,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       426.0,
+       "stand"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 433.8,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 725,
+     "z": 2.4
+    },
+    {
+     "cx": 760,
+     "cy": 725,
+     "z": 2.472
+    }
+   ],
+   "text": "Mara sits down beside him.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       433.8,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       433.9,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       434,
+       -0.2,
+       -0.05,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       433.8,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       433.9,
+       "sad"
+      ]
+     ],
+     "look": [
+      [
+       434.2,
+       -0.7,
+       0.1,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 438.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 905,
+     "cy": 725,
+     "z": 4.0
+    },
+    {
+     "cx": 905,
+     "cy": 725,
+     "z": 4.12
+    }
+   ],
+   "text": "'Turn around.'",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       438.0,
+       "sit"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       438.0,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       438.1,
+       "neutral"
+      ],
+      [
+       442.0,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       438.2,
+       -0.7,
+       0.1,
+       0
+      ]
+     ]
+    }
+   },
+   "subject": "other"
+  },
+  {
+   "start": 444.3,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 560,
+     "cy": 725,
+     "z": 4.0
+    },
+    {
+     "cx": 560,
+     "cy": 725,
+     "z": 4.12
+    }
+   ],
+   "text": "Teo turns. He really looks at it.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       444.3,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       444.4,
+       "sad"
+      ],
+      [
+       445.6,
+       "surprised"
+      ],
+      [
+       447.4,
+       "curious"
+      ]
+     ],
+     "look": [
+      [
+       444.5,
+       -0.2,
+       0,
+       0
+      ],
+      [
+       445.4,
+       0.5,
+       -0.6,
+       0.05
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       444.3,
+       "sit"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 449.2,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 300,
+     "z": 1.6
+    },
+    {
+     "cx": 760,
+     "cy": 300,
+     "z": 1.65
+    }
+   ],
+   "text": "A roof. A water still. Drying fish.",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 453.5,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 1150,
+     "cy": 500,
+     "z": 1.4
+    },
+    {
+     "cx": 1150,
+     "cy": 500,
+     "z": 1.442
+    }
+   ],
+   "text": "A sea anchor. A sail. A coconut.",
+   "chars": {},
+   "subject": "other"
+  },
+  {
+   "start": 458.8,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 0.66
+    },
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 0.68
+    }
+   ],
+   "text": "18 pieces of wood, tied in triangles.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       458.8,
+       "sit"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       458.8,
+       "sit"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 464.5,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 1.3
+    },
+    {
+     "cx": 760,
+     "cy": 600,
+     "z": 1.339
+    }
+   ],
+   "text": "A month ago, one plank. Now, a home.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       464.5,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       464.6,
+       "neutral"
+      ],
+      [
+       469.4,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       464.7,
+       0.4,
+       -0.4,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       464.5,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       464.6,
+       "neutral"
+      ],
+      [
+       469.4,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       464.7,
+       -0.3,
+       -0.4,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 471.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 560,
+     "cy": 725,
+     "z": 4.0
+    },
+    {
+     "cx": 560,
+     "cy": 725,
+     "z": 4.12
+    }
+   ],
+   "text": "Teo is quiet for a long time.",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       471.0,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       471.1,
+       "neutral"
+      ],
+      [
+       473.6,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       471.2,
+       0.1,
+       0.1,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       471.0,
+       "sit"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 475.3,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.9
+    },
+    {
+     "cx": 720,
+     "cy": 640,
+     "z": 1.957
+    }
+   ],
+   "text": "He measures a new plank. 'What are you doing?'",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       475.3,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       475.4,
+       "determined"
+      ]
+     ],
+     "look": [
+      [
+       475.5,
+       -0.4,
+       0.6,
+       0.05
+      ]
+     ],
+     "gestures": [
+      [
+       477.2,
+       "reach",
+       2.6
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       475.3,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       475.4,
+       "curious"
+      ]
+     ],
+     "look": [
+      [
+       475.5,
+       -0.8,
+       -0.3,
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 482.0,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 540,
+     "cy": 569,
+     "z": 4.1
+    },
+    {
+     "cx": 540,
+     "cy": 569,
+     "z": 4.223
+    }
+   ],
+   "text": "'If the world won't find us... we'll build one.'",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       482.0,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       482.2,
+       "happy"
+      ]
+     ],
+     "look": [
+      [
+       482.3,
+       0.7,
+       0,
+       0
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       482.0,
+       "sit"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "start": 490.2,
+   "camera": "x",
+   "cam": [
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 0.8
+    },
+    {
+     "cx": 760,
+     "cy": 560,
+     "z": 0.824
+    }
+   ],
+   "text": "What would you build first?",
+   "chars": {
+    "teo": {
+     "body": [
+      [
+       490.2,
+       "stand"
+      ]
+     ],
+     "expr": [
+      [
+       490.3,
+       "happy"
+      ]
+     ]
+    },
+    "mara": {
+     "body": [
+      [
+       490.2,
+       "sit"
+      ]
+     ],
+     "expr": [
+      [
+       490.3,
+       "happy"
+      ]
+     ]
+    }
+   }
+  }
+ ],
+ "whale": [
+  {
+   "from": 17.0,
+   "to": 20.5,
+   "x": [
+    -500,
+    500
+   ],
+   "y": [
+    1500,
+    1400
+   ],
+   "s": [
+    0.77,
+    0.84
+   ]
+  },
+  {
+   "from": 20.4,
+   "to": 25.5,
+   "x": [
+    650,
+    720
+   ],
+   "y": [
+    1420,
+    1160
+   ],
+   "s": [
+    0.84,
+    0.84
+   ]
+  },
+  {
+   "from": 25.48,
+   "to": 41.95,
+   "x": [
+    720,
+    720
+   ],
+   "y": [
+    1160,
+    1150
+   ],
+   "s": [
+    0.84,
+    0.84
+   ],
+   "open": 0.3
+  },
+  {
+   "from": 41.92,
+   "to": 47.6,
+   "x": [
+    720,
+    725
+   ],
+   "y": [
+    1150,
+    1150
+   ],
+   "s": [
+    0.84,
+    0.84
+   ],
+   "open": 1
+  },
+  {
+   "from": 47.52,
+   "to": 65.4,
+   "x": [
+    725,
+    760
+   ],
+   "y": [
+    1150,
+    1170
+   ],
+   "s": [
+    0.84,
+    0.84
+   ],
+   "open": 0.6
+  },
+  {
+   "from": 65.36,
+   "to": 70.05,
+   "x": [
+    1500,
+    -100
+   ],
+   "y": [
+    1180,
+    1200
+   ],
+   "s": [
+    0.7,
+    0.7
+   ],
+   "dir": -1
+  },
+  {
+   "from": 70.0,
+   "to": 74.6,
+   "x": [
+    -200,
+    800
+   ],
+   "y": [
+    1220,
+    1700
+   ],
+   "s": [
+    0.7,
+    0.63
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "at": 47.6,
+   "dur": 3.4,
+   "lines": [
+    "THE LARGEST FISH IN THE OCEAN",
+    "WHALE SHARK"
+   ],
+   "kinds": [
+    "kicker",
+    "big"
+   ],
+   "pos": "topRight"
+  },
+  {
+   "at": 51.2,
+   "dur": 8.0,
+   "lines": [
+    "UP TO ~12 M",
+    "LONGER THAN A BUS",
+    "harmless filter feeder"
+   ],
+   "kinds": [
+    "big",
+    "big",
+    "caption"
+   ],
+   "pos": "bottomRight",
+   "reveal": [
+    51.2,
+    52.6,
+    55.3
+   ]
+  },
+  {
+   "at": 121.1,
+   "dur": 2.6,
+   "lines": [
+    "PLATFORM",
+    "3 → 12 PIECES"
+   ],
+   "kinds": [
+    "kicker",
+    "big"
+   ],
+   "pos": "top"
+  },
+  {
+   "at": 188.8,
+   "dur": 3.4,
+   "lines": [
+    "AN HOUR LATER",
+    "1 DROP"
+   ],
+   "kinds": [
+    "kicker",
+    "big"
+   ],
+   "pos": "topRight"
+  },
+  {
+   "at": 194.6,
+   "dur": 5.6,
+   "lines": [
+    "1982 · STEVEN CALLAHAN",
+    "76 DAYS ADRIFT",
+    "Atlantic Ocean"
+   ],
+   "kinds": [
+    "kicker",
+    "big",
+    "caption"
+   ],
+   "pos": "topRight"
+  },
+  {
+   "at": 250.0,
+   "dur": 4.4,
+   "lines": [
+    "UNDER THE RAFT",
+    "BARNACLES"
+   ],
+   "kinds": [
+    "kicker",
+    "big"
+   ],
+   "pos": "bottomRight"
+  },
+  {
+   "at": 259.4,
+   "dur": 6.0,
+   "lines": [
+    "STEVEN CALLAHAN · 1982",
+    "A TINY REEF",
+    "dorado circling below"
+   ],
+   "kinds": [
+    "kicker",
+    "big",
+    "caption"
+   ],
+   "pos": "bottomRight"
+  },
+  {
+   "at": 288.6,
+   "dur": 3.0,
+   "lines": [
+    "DAY",
+    "26"
+   ],
+   "kinds": [
+    "kicker",
+    "big"
+   ],
+   "pos": "topRight"
+  },
+  {
+   "at": 334.4,
+   "dur": 3.2,
+   "lines": [
+    "POLARIS",
+    "the North Star"
+   ],
+   "kinds": [
+    "big",
+    "caption"
+   ],
+   "pos": "topRight"
+  },
+  {
+   "at": 341.0,
+   "dur": 5.2,
+   "lines": [
+    "NORTHERN HEMISPHERE",
+    "STAR HEIGHT ≈ YOUR LATITUDE"
+   ],
+   "kinds": [
+    "kicker",
+    "big"
+   ],
+   "pos": "topRight"
+  },
+  {
+   "at": 379.6,
+   "dur": 3.8,
+   "lines": [
+    "CARGO SHIP",
+    "~2–3 MILES AWAY"
+   ],
+   "kinds": [
+    "kicker",
+    "big"
+   ],
+   "pos": "topRight"
+  },
+  {
+   "at": 418.6,
+   "dur": 6.4,
+   "lines": [
+    "STEVEN CALLAHAN · 76 DAYS",
+    "~9 SHIPS PASSED",
+    "most accounts say nine — none stopped"
+   ],
+   "kinds": [
+    "kicker",
+    "big",
+    "caption"
+   ],
+   "pos": "topRight"
+  },
+  {
+   "at": 459.4,
+   "dur": 4.6,
+   "lines": [
+    "PLATFORM",
+    "18 PIECES",
+    "tied in triangles"
+   ],
+   "kinds": [
+    "kicker",
+    "big",
+    "caption"
+   ],
+   "pos": "topRight"
+  },
+  {
+   "at": 464.8,
+   "dur": 3.6,
+   "lines": [
+    "A MONTH AGO",
+    "1 PLANK"
+   ],
+   "kinds": [
+    "kicker",
+    "big"
+   ],
+   "pos": "topRight"
+  },
+  {
+   "at": 468.9,
+   "dur": 2.0,
+   "lines": [
+    "NOW",
+    "A HOME"
+   ],
+   "kinds": [
+    "kicker",
+    "big"
+   ],
+   "pos": "topRight"
+  }
+ ],
+ "bubbles": [
+  {
+   "at": 39.5,
+   "dur": 2.6,
+   "who": "mara",
+   "text": "Wait. Look at its mouth."
+  },
+  {
+   "at": 78.6,
+   "dur": 3.0,
+   "who": "teo",
+   "text": "I think it was just saying hello."
+  },
+  {
+   "at": 134.1,
+   "dur": 2.3,
+   "who": "teo",
+   "text": "That's it? That's all it took?"
+  },
+  {
+   "at": 136.5,
+   "dur": 4.3,
+   "who": "mara",
+   "text": "If you have it before the storm."
+  },
+  {
+   "at": 304.4,
+   "dur": 3.8,
+   "who": "teo",
+   "text": "So we just sit here? Forever?"
+  },
+  {
+   "at": 362.8,
+   "dur": 1.9,
+   "who": "teo",
+   "text": "I'm sorry."
+  },
+  {
+   "at": 364.9,
+   "dur": 1.8,
+   "who": "mara",
+   "text": "Me too."
+  },
+  {
+   "at": 442.2,
+   "dur": 2.0,
+   "who": "mara",
+   "text": "Turn around."
+  },
+  {
+   "at": 480.7,
+   "dur": 1.6,
+   "who": "mara",
+   "text": "What are you doing?"
+  },
+  {
+   "at": 486.6,
+   "dur": 2.1,
+   "who": "teo",
+   "text": "If the world won't find us..."
+  },
+  {
+   "at": 488.8,
+   "dur": 1.6,
+   "who": "teo",
+   "text": "...we'll build one."
+  }
+ ],
+ "titles": [
+  {
+   "at": 81.7,
+   "dur": 2.8,
+   "text": "Floating Kingdom",
+   "sub": "What Came Back",
+   "part": 2
+  }
+ ],
+ "sfx": [],
+ "parts": [
+  [
+   121.2,
+   "pallet"
+  ],
+  [
+   121.9,
+   "crate"
+  ],
+  [
+   122.6,
+   "beam"
+  ],
+  [
+   123.2,
+   "planks"
+  ]
+ ],
+ "anchorLine": {
+  "from": 124.6,
+  "tight": 126.4
+ },
+ "inserts": [
+  {
+   "at": 88.0,
+   "dur": 10.0,
+   "kind": "tri"
+  },
+  {
+   "at": 109.44,
+   "dur": 10.759999999999996,
+   "kind": "anchor"
+  },
+  {
+   "at": 172.3,
+   "dur": 10.3,
+   "kind": "still"
+  }
+ ],
+ "trimStart": 17.366666666666667,
+ "deck2": 217.8,
+ "fish": [
+  [
+   247,
+   0
+  ],
+  [
+   254.5,
+   0
+  ],
+  [
+   255.6,
+   12
+  ],
+  [
+   257.3,
+   28
+  ]
+ ],
+ "ship": [
+  {
+   "from": 371.0,
+   "to": 378.5,
+   "x": [
+    1700,
+    1600
+   ],
+   "s": [
+    0.04,
+    0.3
+   ]
+  },
+  {
+   "from": 378.5,
+   "to": 400.0,
+   "x": [
+    1600,
+    950
+   ],
+   "s": [
+    0.3,
+    0.33
+   ]
+  },
+  {
+   "from": 400.0,
+   "to": 405.0,
+   "x": [
+    950,
+    600
+   ],
+   "s": [
+    0.33,
+    0.05
+   ]
+  }
+ ],
+ "endCard": {
+  "at": 490.6,
+  "kicker": "FLOATING KINGDOM",
+  "text": "What would you build first?"
+ },
+ "acting": true,
+ "life": true
+}

@@ -1,0 +1,5 @@
+node_modules
+out
+final/
+whisper.cpp/
+*.wav

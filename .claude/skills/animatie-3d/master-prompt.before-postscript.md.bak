@@ -1,0 +1,28 @@
+# MASTER PROMPT – Animație 3D
+
+Copiază blocul de mai jos, completează ce știi (restul poate rămâne gol – Claude alege) și trimite-l.
+
+```
+/animatie-3d
+SUBIECT / IDEE: 
+DURATĂ (secunde): 15
+FORMAT: 16:9 | 9:16 | 1:1
+FPS: 30
+STIL VIZUAL: (ex: low-poly, neon, clay, cinematic, toon, voxel, pastel)
+PALETĂ CULORI: 
+OBIECTE / PERSONAJE: 
+SCENE (opțional, câte una pe rând):
+  1. 
+  2. 
+  3. 
+MIȘCARE CAMERĂ: (ex: orbită lentă, dolly-in, travelling lateral)
+TEXT / CAPTIONS: (textul exact sau „din voiceover”)
+STIL CAPTIONS: (ex: TikTok galben pe cuvântul curent, jos)
+AUDIO: (fișier din public/, ex: voice.mp3 / muzică / fără)
+FINAL: (ex: logo, call-to-action, fade la negru)
+REFERINȚE / ALTE DETALII: 
+```
+
+## Preferințe salvate
+(Claude adaugă aici ce ți-a plăcut, ca să fie folosit implicit.)
+- 
